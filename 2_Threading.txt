@@ -1,0 +1,8 @@
+#Threading#
+
+A Thread is the independent path of execution in a program. Many thread runs concurrently with a program. Some threads are Multithread, This thread refers to two or more thread running simultaneously within a program. The thread in java is created and controlled by the java.lang.Threadclass.
+
+There are two ways to create Threads:
+
+• Implements Runnable interface
+• By extending the Threads class
