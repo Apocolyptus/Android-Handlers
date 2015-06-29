@@ -8,11 +8,11 @@ Threads, Executors, Runnables, Android Handlers
 
 1) [The Simple Threads] (1_The Simple Threads.txt)
 
-  • [Example] (hibernate.java)
+  • [SimpleThreads] (SimpleThreads.java)
 
 2) [Threading] (2_Threading.txt)
 
-  • [Example] (prototype.java)
+  • [Threading] (threading.java)
 
 3) [Android Handlers] (3_Android Handlers.txt)
 
